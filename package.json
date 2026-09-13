@@ -1,0 +1,9 @@
+{
+  "name": "sulochana-foundation-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix sulochana-foundation run dev",
+    "build": "npm --prefix sulochana-foundation run build",
+    "preview": "npm --prefix sulochana-foundation run preview"
+  }
+}
